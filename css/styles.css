@@ -67,11 +67,19 @@ hr{
     background-color: #FFC75F;
 }
 #title2{
-  background-color: antiquewhite;
+  background-color: rgb(247, 246, 244);
 }
 
 
 .teoriamusical{
   padding: 1% 1%;
   text-align: justify;
+}
+.braco1{
+  float: center;
+  padding: 3% 3%;
+}
+.braco2{
+  float: center;
+  padding: 5% 10%;
 }
